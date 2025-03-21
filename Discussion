@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CTU Buddy</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>CTU Buddy</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Timetable</a></li>
+                <li><a href="#">Discussion</a></li>
+                <li><a href="#">Share Resources</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="discussion">
+            <h2>Discussion</h2>
+            <div class="user-post">
+                <strong>User Display Name</strong>
+                <p>What is on your mind?</p>
+                <button>Post</button>
+            </div>
+            <div class="post">
+                <strong>Poster Display Name</strong>
+                <p>Post Content</p>
+                <div class="replies">
+                    <div class="reply">
+                        <strong>Replier Display Name</strong>
+                        <p>Reply Content</p>
+                    </div>
+                </div>
+                <button>Reply in this thread</button>
+            </div>
+            <div class="post">
+                <strong>Poster Display Name</strong>
+                <p>Post Content</p>
+                <div class="replies">
+                    <div class="reply">
+                        <strong>Replier Display Name</strong>
+                        <p>Reply Content</p>
+                    </div>
+                    <div class="reply">
+                        <strong>Replier Display Name</strong>
+                        <p>Reply Content</p>
+                    </div>
+                </div>
+                <button>Reply in this thread</button>
+            </div>
+            <div class="post">
+                <strong>Poster Display Name</strong>
+                <p>Post Content</p>
+                <div class="replies">
+                    <div class="reply">
+                        <strong>Replier Display Name</strong>
+                        <p>Reply Content</p>
+                    </div>
+                    <div class="reply">
+                        <strong>Replier Display Name</strong>
+                        <p>Reply Content</p>
+                    </div>
+                    <div class="reply">
+                        <strong>Replier Display Name</strong>
+                        <p>Reply Content</p>
+                    </div>
+                </div>
+                <button>Reply in this thread</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy;2024 CTU-Buddy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
