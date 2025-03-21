@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CTU Buddy</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>CTU Buddy</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Timetable</a></li>
+                <li><a href="#">Discussion</a></li>
+                <li><a href="#">Share Resources</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="welcome">
+            <h2>Welcome</h2>
+            <div class="decor-1">
+                <!-- Add any decorative elements or images here -->
+            </div>
+            <div class="decor-2">
+                <!-- Add any decorative elements or images here -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy;2024 CTU-Buddy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
