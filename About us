@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CTU Buddy</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can link your CSS file here -->
+</head>
+<body>
+    <header>
+        <h1>CTU Buddy</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Timetable</a></li>
+                <li><a href="#">Discussion</a></li>
+                <li><a href="#">Share Resources</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about-ctu">
+            <h2>About CTU</h2>
+            <p>CTU Training Solutions is a distinguished private tertiary education provider that has been shaping skilled professionals since 1987. We offer flexible training solutions, catering to both full-time and part-time students. Our national qualifications and international certifications, aligned with industry standards, prepare graduates for future career opportunities brought about by the 4th Industrial Revolution.
+                In addition, we provide specialized short courses focused on skills development and vendor-specific training. Certain qualifications also include international certifications to enhance relevance and value. As a Level 2 B-BBEE contributor, CTU can assist businesses with learnership programs and is officially registered with the Department of Higher Education as a Private Higher Education Institution.
+                Our portfolio includes over 14 registered ICT learnerships up to NQF Level 6, addressing critical skills shortages that hinder the growth of South African businesses. Investing in workforce training is crucial for ensuring competitiveness, improving productivity, and driving profitability.
+                With faculties spanning IT, Design, Business & Management, Engineering, and Humanities, learners can opt for full-time studies (including qualifications and diplomas lasting 1 to 3 years) or part-time options (such as short courses and skills development programs).</p>
+        </section>
+
+        <section id="about-buddy">
+            <h2>About The CTU Buddy System</h2>
+            <p>The CTU Buddy System is an innovative online platform designed to elevate the academic experience for students at CTU Training Solutions. Centered on collaboration and resource sharing, this website offers a range of features crafted to enhance learning and provide essential academic support. Reflecting CTU Training Solutions' dedication to cultivating a community of skilled professionals, the CTU Buddy System connects students, fosters teamwork, and equips them with valuable tools for academic success. It empowers learners to thrive in their studies and gear up for opportunities presented by the 4th Industrial Revolution. Together, let's create a future where education is engaging, accessible, and always at your fingertips</p>
+        </section>
+
+        <section id="team">
+            <h2>Meet the Creative</h2>
+            <ul>
+                <li><strong>Name:</strong> Bophelo Malepu<br><strong>Role(s):</strong> Web Page Designer, Programmer, Project Manager</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy;2024 CTU-Buddy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
