@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CTU Buddy</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>CTU Buddy</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Timetable</a></li>
+                <li><a href="#">Discussion</a></li>
+                <li><a href="#">Share Resources</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="search-files">
+            <h2>Search Files</h2>
+            <input type="text" placeholder="Search Files . . .">
+            <button>Search</button>
+            
+            <table>
+                <tr>
+                    <th>Title</th>
+                    <th>Filename</th>
+                    <th>Module</th>
+                </tr>
+                <tr>
+                    <td>CF412 - FA1</td>
+                    <td>CF412 FA1 (2024 Q1).pdf</td>
+                    <td>CF412</td>
+                </tr>
+                <tr>
+                    <td>ENA412 - FA1</td>
+                    <td>ENA412 FA1 (2024 Q1).pdf</td>
+                    <td>ENA412</td>
+                </tr>
+                <tr>
+                    <td>RD412 - FA1</td>
+                    <td>RD412 FA1 (2024 Q1).pdf</td>
+                    <td>RD412</td>
+                </tr>
+            </table>
+            
+            <button>Upload</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy;2024 CTU-Buddy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
